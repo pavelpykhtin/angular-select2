@@ -1,0 +1,9 @@
+{
+  "name": "ww-angular-select2",
+  "description": "ww-angular-select2",
+  "version": "0.0.1",
+  "main": "angular-select2.js",
+  "repository": "https://github.com/pavelpykhtin/angular-select2",
+  "dependencies": {},
+  "devDependencies": {}
+}
